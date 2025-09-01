@@ -1,0 +1,26 @@
+[
+  {
+    "role": "EXECUTIVE",
+    "organisation": "ACM NIT-SURAT",
+    "startDate": "Sept, 2025",
+    "endDate": "currently",
+    "experiences": ["executive"],
+    "imageSrc": "history/acm.jpg"
+  },
+  {
+    "role": "EXECUTIVE",
+    "organisation": "E-CELL NIT-SURAT",
+    "startDate": "Aug, 2025",
+    "endDate": "currently",
+    "experiences": ["executive"],
+    "imageSrc": "history/ecell.jpg"
+  },
+  {
+    "role": "EXECUTIVE",
+    "organisation": "CEV",
+    "startDate": "Aug, 2025",
+    "endDate": "currently",
+    "experiences": ["executive"],
+    "imageSrc": "history/cev.jpg"
+  }
+]
