@@ -4,8 +4,8 @@
     "imageSrc": "projects/velure.png",
     "description": "This project made me learn Next.js, a lot about UI/UX designing related to fashion.",
     "skills": ["React", "Next", "Tailwind", "Cloudinary", "Mongo"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://velure0.vercel.app/home",
+    "source": "https://github.com/GREENRAT-K405/web-wonders2025"
   },
   {
     "title": "CLUBIFY",
@@ -13,14 +13,14 @@
     "description": "This is a club management web-app made on django framework. It is my semester 2 group project.",
     "skills": ["Python", "Django", "CSS", "API handling"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/GREENRAT-K405/CLUBIFY"
   },
   {
-    "title": "CHAT APP",
+    "title": "ONECHAT",
     "imageSrc": "projects/chat.webp",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Mongodb", "Typescript", "Websockets"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/GREENRAT-K405/ONECHAT"
   }
 ]
